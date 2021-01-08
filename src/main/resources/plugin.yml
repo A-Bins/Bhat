@@ -1,0 +1,7 @@
+name: Bhat
+version: ${project.version}
+main: bhat.bhat.Bhat
+api-version: 1.16
+authors: [ A_Bins, DDang_ ]
+commands:
+  채팅랭크:
